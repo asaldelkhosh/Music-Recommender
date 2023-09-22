@@ -1,7 +1,3 @@
-<h1 align="center">
-Music Recommender
-</h1>
+# Music Recommender
 
-<br />
-
-Starting my journey in learning Machine Learning by implementing a music recommender with decision trees.
+Starting my journey in learning ```Machine Learning``` by implementing a ```music recommender``` using ```decision trees```.
